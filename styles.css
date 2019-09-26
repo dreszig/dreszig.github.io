@@ -3,7 +3,6 @@
 body {
   color: #555;
   margin: 0;
-
   font-family: 'Montserrat', sans-serif;
 }
 
@@ -28,7 +27,6 @@ body {
 #header-title {
   display: block;
   float: left;
-
   font-size: 20px;
   font-weight: bold;
 }
@@ -97,10 +95,8 @@ a:hover {
 
 .post-date {
   color: #d2d2d2;
-
   font-size: 14px;
   font-weight: bold;
-
   text-transform: uppercase;
   letter-spacing: 0.1em;
 }
